@@ -1,6 +1,10 @@
 # Act8_1094_android
 
 A new Flutter project created with FlutLab - https://flutlab.io
+- ![image](https://github.com/user-attachments/assets/041c2e91-d0c1-4547-9b47-1c8f82369d6f)
+
+- ![image](https://github.com/user-attachments/assets/d0a11eab-823c-469b-84ee-921d1dc4c6b3)
+
 
 ## Getting Started
 
